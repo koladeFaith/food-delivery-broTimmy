@@ -4,7 +4,7 @@ import minus from "../images/mdi_minus.png";
 import plus from "../images/Frame 1000005599.png";
 import rate2 from "../images/rate-2.png";
 import riceImg from "../images/a85bddf8-14c3-46a4-9fb4-ec6cb841f998 1.png";
-import rateImg from "../images/Group.png";
+import rateImg from "../images/Vector.png";
 import cartImg from "../images/Frame 1000005634.png";
 import personImg from "../images/10491828 1.png";
 const ProductDetails = () => {
